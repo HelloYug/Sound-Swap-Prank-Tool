@@ -14,6 +14,15 @@ This prank project was built using **PowerShell scripting** and then converted i
 
 The sound used (`alert.wav`) is copied to the user's Music folder to keep things clean and hidden in a non-suspicious location.
 
+## 🔉 About Sound - `alert.wav`
+This file is a 6-second sparking sound designed to create the illusion of a system short-circuit or electric spark when the system:
+
+- **Starts up**
+- **Shuts down**
+- **Detects a USB device**
+
+The prank causes mild panic and confusion without doing any harm.
+
 
 
 ## 🧱 How This Prank Was Made
